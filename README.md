@@ -1,6 +1,8 @@
 
 总结Java开发技术面试常问的问题，持续更新中~
 
+![这里写图片描述](http://img.blog.csdn.net/20170809091730250?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvanl4bXVzdA==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
 * [数据库](#数据库)
     * [mysql](#mysql)
     * [redis](#redis)
